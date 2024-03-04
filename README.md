@@ -50,4 +50,4 @@ Megvalósított funkciók:
 - Átméretezés
 - Gaussian Blur
 - 24 bites vagy 8 bites mentés
-- 24 bites vagy 8 bites tömörítve (RLE) mentése
+- 24 bites vagy 8 bites tömörített (RLE) mentés
